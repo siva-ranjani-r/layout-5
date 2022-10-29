@@ -1,0 +1,153 @@
+.top{
+	display:flex;
+	background-color:navy;
+	justify-content:flex-end;
+}
+.item{
+	background-color:#00A6EB;
+	width:100px;
+	height:30px;
+}
+.wrap{
+	display:flex;
+	flex-wrap:wrap;
+	background-color:#012970;
+	padding-top:10px;
+	justify-content:flex-end;
+	flex-direction:row;
+}
+.rows{
+	background-color:gray;
+	margin:20px;
+    width:100px;	
+	height:20px;
+}
+.rows1{
+	background-color:blue;
+	width:50px;
+	height:30px;
+	margin:20px;
+	padding-right:20px;
+}
+.box{
+	display:flex;
+	background-color:#6A5338;
+	justify-content:flex-start;
+	height:300px;
+	padding:50px;
+}
+.empty{
+	background-color:white;		
+	height:50px;
+	width:100px;
+	margin-top:200px;
+}
+.right{
+	background-color:white;
+	display:flex;
+	justify-content:flex-end;
+	padding-top:50px;
+}
+.column{
+    background-color:#DDDBDC;
+	margin:10px;
+	height:350px;
+    width:600px;	
+}
+.container{
+	display:flex;
+	background-color:#F6F7F6;
+	justify-content:space-evenly;
+	width:1500px;
+	height:100px;
+	margin-top:20px;
+}
+.flex{
+	background-color:#5FCF80;
+	width:100px;
+	height:50px;
+	margin-top:20px;
+}
+.mentor{
+	display:flex;
+	background-color:#FFA785;
+	justify-content:space-evenly;
+	width:1500px;
+	height:300px;
+	margin-top:20px;
+}
+.labour{
+	background-color:gray;
+	width:300px;
+	height:250px;
+	margin-top:20px;
+}
+.labour1{
+	background-color:#5FCF80;
+	width:300px;
+	height:250px;
+	margin-top:20px;
+}
+.signal{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	background-color:#7BBDFF;
+	justify-content:space-evenly;
+	height:500px;
+	padding-top:50px;
+	margin-top:20px;
+}
+.print{
+	background-color:#29CC61;
+	padding:20px;
+	width:300px;
+	height:100px;
+}
+.web{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	background-color:#7BBDFF;
+	justify-content:space-evenly;
+	height:300px;
+	padding-top:50px;
+	margin-top:20px;
+}
+.marketing{
+	background-color:#29CC61;
+	padding:20px;
+	width:300px;
+	height:150px;
+}
+.button{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	background-color:white;
+	justify-content:space-evenly;
+	height:300px;
+	padding-top:50px;
+	margin-top:20px;
+}
+.picture{
+	background-color:#CCCCCC;
+	padding:20px;
+	width:300px;
+	height:250px;
+}
+.links{
+	display:flex;
+	background-color:#1F2C3D;
+	justify-content:flex-end;
+	height:300px;
+	padding-top:100px;
+	margin-top:200px;
+}
+.service{
+	background-color:#5FCF80;		
+	height:50px;
+	width:100px;
+	margin-top:10px;
+	margin-right:20px;
+}
